@@ -1,0 +1,1 @@
+[{"email":"medpreparat@ukr.net","password":"123"},{"email":"345rt6y@jgj.kk","password":"1212"},{"email":"fffff@ggg.hhh","password":"789"},{"email":"tttt@gggg.yyyy","password":"555"}]
